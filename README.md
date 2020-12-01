@@ -1,3 +1,3 @@
 # pubsub
 
-Implementation of a native pubsub system that has register and broadcast functionality. 
+Implementation of a naive pubsub system that has register and broadcast functionality. 
